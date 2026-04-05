@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { Eye, EyeOff, Lock, User, Layers, Network, Box } from 'lucide-react';
 import { TechBackground } from './TechBackground';
 import { ArchitectureLayers } from './ArchitectureLayers';
